@@ -1,4 +1,4 @@
-//时钟函数
+//一个时钟函数
 import time
 
 minutes = int(input("Enter time"))
