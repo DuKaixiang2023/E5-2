@@ -12,9 +12,12 @@ while total_seconds:
     print(timer, end="\r")
     time.sleep(1)
     total_seconds -= 1
-    
+
+
 print("Focus timer complete!")
 
 
 //一个时钟函数
+
+
 
