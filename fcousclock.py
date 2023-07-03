@@ -1,5 +1,4 @@
 //一个时钟函数
-//一个时钟函数
 
 import time
 
@@ -18,6 +17,3 @@ print("Focus timer complete!")
 
 
 //一个时钟函数
-
-
-
