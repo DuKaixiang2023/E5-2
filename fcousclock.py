@@ -2,6 +2,7 @@
 
 import time
 
+
 minutes = int(input("Enter time"))
 total_seconds = minutes * 60
 
