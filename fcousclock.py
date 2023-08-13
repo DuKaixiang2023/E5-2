@@ -13,6 +13,5 @@ while total_seconds:
     total_seconds -= 1
 
 
-
 print("Focus timer complete!")
 
