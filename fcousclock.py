@@ -13,4 +13,3 @@ while total_seconds:
     time.sleep(1)
     total_seconds -= 1
 print("Focus timer complete!")
-
