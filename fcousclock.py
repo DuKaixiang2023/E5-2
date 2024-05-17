@@ -1,4 +1,4 @@
-//一个时钟函数s
+//一个时钟函数
 
 import time
 minutes = int(input("Enter time"))
@@ -11,3 +11,5 @@ while total_seconds:
     time.sleep(1)
     total_seconds -= 1
 print("Focus timer complete!")
+
+
