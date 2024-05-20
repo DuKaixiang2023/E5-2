@@ -1,13 +1,7 @@
 //一个时钟函数
-
-
-
 import time
 minutes = int(input("Enter time"))
 total_seconds = minutes * 60
-
-
-
 while total_seconds:
     mins, secs = divmod(total_seconds, 60)
     timer = '{:02d}:{:02d}'.format(mins, secs)
@@ -15,6 +9,3 @@ while total_seconds:
     time.sleep(1)
     total_seconds -= 1
 print("Focus timer complete!")
-
-
-
